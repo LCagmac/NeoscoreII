@@ -1,0 +1,14 @@
+Project Example Requirements
+
+	⁃	Python Scripts
+	⁃	Projectexample.py
+	⁃	kaleidoscopelivecodeI.py
+
+
+	⁃	Images required for this project example are in the tests folder. They include:
+	⁃	kshape.png
+	⁃	music.png
+	⁃	Square.png
+	⁃	squareicon.png
+	⁃	triangle.png
+	⁃	triangle1.png
