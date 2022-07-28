@@ -1,1 +1,1 @@
-neoscore=0.1.6
+neoscore==0.1.6
